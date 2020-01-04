@@ -12,7 +12,7 @@
 ### 数ju清洗
  数据清洗(http://nfunm073.gitee.io/python1/)
  
- 孕妇死亡率的图整体时间轴(https://gitee.com/NFUNM073/data/pages)
+ 孕妇死亡率的图整体时间轴(http://nfunm073.gitee.io/data/)
  
 ### pythonanywhere
 
