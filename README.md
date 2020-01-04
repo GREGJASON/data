@@ -11,6 +11,9 @@
 联合国数据统计局（http://data.un.org/）
 ### 数ju清洗
  数据清洗(http://nfunm073.gitee.io/python1/)
+ 
+ 孕妇死亡率的图整体时间轴(https://gitee.com/NFUNM073/data/pages)
+ 
 ### pythonanywhere
 
 最后结果展示(http://shenjia.pythonanywhere.com/)
