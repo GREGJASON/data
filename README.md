@@ -37,4 +37,5 @@
 ### pythonanywhere
 
 最后结果展示(http://shenjia.pythonanywhere.com/)
-（世界孕妇死亡率时间图请打开 孕妇死亡率的图整体时间轴(http://nfunm073.gitee.io/data/)）（因为个人的问题请另外打开）
+世界孕妇死亡率时间图请打开 孕妇死亡率的图整体时间轴(http://nfunm073.gitee.io/data/)
+（因为个人的问题请另外打开）
